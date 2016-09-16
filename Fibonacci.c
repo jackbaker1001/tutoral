@@ -2,6 +2,7 @@
 /* Another comment*/
 // further commentsrsetdyfguhojik
 // look another comment!!!
+// firther useless coments
 #include <stdio.h>
 
 int main()
