@@ -1,6 +1,9 @@
 /* Fibonacci Series c language */
 /* Another comment*/
 // further commentsrsetdyfguhojik
+// look another comment!!!
+// firther useless coments
+// bored of comments nowsdfsfdf
 #include <stdio.h>
 
 int main()
